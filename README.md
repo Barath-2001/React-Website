@@ -12,7 +12,11 @@ A professional and responsive **business website** built using **React.js**. Des
 - **Hosting**: Deployed on **Hostinger**, ensuring reliable and fast performance.
 
 ---
+##Sample Photo
 <img width="942" alt="image" src="https://github.com/user-attachments/assets/48d54f5d-009c-42c1-a094-82d1bdabcc3a">
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/c0a7e4f8-9312-4e73-96fb-5750df922de1">
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/c7b8c3d8-4083-471d-8296-aade9104a722">
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/0f082b8e-8242-422d-95e9-f7763107b981">
 
 
 ## Requirements
