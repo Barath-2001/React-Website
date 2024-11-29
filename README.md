@@ -12,6 +12,8 @@ A professional and responsive **business website** built using **React.js**. Des
 - **Hosting**: Deployed on **Hostinger**, ensuring reliable and fast performance.
 
 ---
+<img width="942" alt="image" src="https://github.com/user-attachments/assets/48d54f5d-009c-42c1-a094-82d1bdabcc3a">
+
 
 ## Requirements
 - **Node.js** (v14 or later)
