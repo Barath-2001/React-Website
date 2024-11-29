@@ -1,7 +1,7 @@
 # Business Website 🌐
 
-Link-[Sign Infosoft]("https://signinfosoft.com/") (Now tech stack changed)
-Video- "https://drive.google.com/file/d/1s5TRYTe6Nwg2JNbRgVItVFoKQaZzJi6J/view?usp=drive_link"
+- Link- https://signinfosoft.com/ (Now tech stack changed)
+- Video- https://drive.google.com/file/d/1s5TRYTe6Nwg2JNbRgVItVFoKQaZzJi6J/view?usp=drive_link
 
 A professional and responsive **business website** built using **React.js**. Designed to showcase the client's services and offerings effectively, this website focuses on performance, scalability, and user experience.
 
